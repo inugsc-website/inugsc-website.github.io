@@ -555,7 +555,7 @@ div#people_container a.person_email {
         align-items: center;
     }
 
-    main div.full_width_container img {
+    main div.full_width_container img.circle_clip_path {
         width: 40vw;
         aspect-ratio: 1;
     }
