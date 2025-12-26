@@ -4,3 +4,6 @@ It's simply static HTML, CSS, and JS files. Making changes should therefore be p
 
 ## Changing the committee
 The page with all the committee members is generated client-side, using the file *people.txt*. Therefore, if you want to change someone's details, you should do it using *people.txt* and not by editing the HTML of that page.
+
+## Contact me
+This website was created by Dylan Heydon-Matterface (dhmatterface@gmail.com). Feel free to contact me if you need any help with anything.
