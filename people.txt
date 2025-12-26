@@ -1,0 +1,118 @@
+This is a list of all the people which will appear on the "Committee" page.
+They'll appear in the order that they're listed here.
+Make sure to add new people below the line of dashes.
+
+The format must be exactly as follows:
+/img/people/<image_file_name>
+<Person's name>
+<Role>
+<Email address>
+
+Note: adding [Important] before the person's name ensures that they appear in their own row at the top of the page.
+
+-----
+
+/img/people/lizzie_fu.avif
+[Important] Lizzie Fu
+Director
+elizabeth.fu.23@ucl.ac.uk
+
+/img/people/rachel_chan.avif
+[Important] Rachel Chan
+Director
+rachel.chan.22@ucl.ac.uk
+
+/img/people/ashwika_padiyar.avif
+Ashwika Padiyar
+Secretary
+ashwika.padiyar.23@ucl.ac.uk
+
+/img/people/winston_tai.avif
+Winston Tai
+Collaboration Facilitator
+winston.tai.24@ucl.ac.uk
+
+/img/people/rohan_peacock.avif
+Rohan Peacock
+Finance Director
+jonathan.peacock.23@ucl.ac.uk
+
+/img/people/abhishek_sivakumar.avif
+Abhishek Sivakumar
+Speakers Liaison Coordinator
+abhishek.sivakumar.24@ucl.ac.uk
+
+/img/people/abigail_clegg.avif
+Abigail Clegg
+Workshop Programme Lead
+abigail.clegg.24@ucl.ac.uk
+
+/img/people/ritwik_pain.avif
+Ritwik Pain
+Workshop Programme Lead
+ritwik.pain.22@ucl.ac.uk
+
+/img/people/anisha_jain.avif
+Anisha Jain
+Workshop Coordinator
+anisha.jain.22@ucl.ac.uk
+
+/img/people/budhmi_wimalasundera.avif
+Budhmi Wimalasundera
+Workshop Coordinator
+budhmi.wimalasundera.22@ucl.ac.uk
+
+/img/people/laith_ali.avif
+Laith Ali
+Workshop Coordinator
+laith.ali.24@ucl.ac.uk
+
+/img/people/manasi_dedhia.avif
+Manasi Dedhia
+Academic Coordinator
+manasia.dedhia.22@ucl.ac.uk
+
+/img/people/abirami_sritharan.avif
+Abirama Sritharan
+Marketing Officer
+abirami.sritharan.23@ucl.ac.uk
+
+/img/people/imani_chong.avif
+Imani Chong
+International Coordinator
+imani.chong.24@ucl.ac.uk
+
+/img/people/anya_roy.avif
+Anya Roy
+Publicity Officer
+anya.roy.24@ucl.ac.uk
+
+/img/people/mahathi_annam.avif
+Mahathi Annam
+Publicity Officer
+mahathi.annam.24@ucl.ac.uk
+
+/img/people/sanjana_krishnan.avif
+Sanjana Krishnan
+Publicity Officer
+sanjana.krishnan.23@ucl.ac.uk
+
+/img/people/minza_raja.avif
+Minza Raja
+Logistics Coordinator
+minza.raja.23@ucl.ac.uk
+
+/img/people/scarlett_gunn.avif
+Scarlett Gunn
+Logistics Coordinator
+scarlett.gunn.22@ucl.ac.uk
+
+/img/people/keira_suain.avif
+Keira Suain
+Widening Participation Lead
+keira.suain.23@ucl.ac.uk
+
+/img/people/kinza_ahmed.avif
+Kinza Ahmed
+Widening Participation Lead
+kinza.ahmed.24@ucl.ac.uk
