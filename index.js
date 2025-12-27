@@ -1,24 +1,47 @@
-let parallaxImages = [].slice.call(
-    document.querySelectorAll(
-        "div.image_behind_text_container div.image_container img"
-    )
-);
-
 let fadeInContainers = [].slice.call(
     document.querySelectorAll(".fade_in_while_scrolling")
 );
 
-function updateParallaxImages() {
-    parallaxImages.forEach(image => {
-        let rect = image.getBoundingClientRect();
-        let imageY = rect.y;
-        let parentWidth = image.parentElement.clientWidth;
-        let imageWidth = image.clientWidth;
-        let xTranslation = (parentWidth - imageWidth) / 2;
-        let yTranslation = - imageY / 1.2;
-        image.style.transform = `translate(${xTranslation}px, ${yTranslation}px)`;
-    });
+let scrollingImageCanvases = [].slice.call(
+    document.querySelectorAll("canvas.scrolling_image")
+);
+
+let scrollingImageObjects = scrollingImageCanvases.map(canvas => {
+    let image = new Image();
+    image.src = canvas.dataset.src;
+    return image;
+});
+
+let canvasContexts = scrollingImageCanvases.map(canvas => canvas.getContext("2d"));
+
+function updateScrollingImages() {
+    let headerHeight = document.querySelector("header").clientHeight;
+    let scalingFactor = Math.max(1.2, window.innerHeight / window.innerWidth * 1.2);
+    for (let i = 0; i < scrollingImageCanvases.length; i++) {
+        let canvas = scrollingImageCanvases[i];
+        canvas.width = canvas.clientWidth;
+        canvas.height = canvas.clientHeight;
+        let context = canvasContexts[i];
+        let imageObject = scrollingImageObjects[i];
+        let imageAspectRatio = imageObject.width / imageObject.height;
+        let yTranslation = - (canvas.getBoundingClientRect().y - headerHeight) / 1.5;
+        if (canvas.width < canvas.height) {
+            // Image fills whole height
+            let imageHeight = canvas.height * scalingFactor;
+            let imageWidth = imageHeight * imageAspectRatio;
+            let xOffset = (canvas.width - imageWidth) / 2;
+            context.drawImage(imageObject, xOffset, yTranslation, imageWidth, imageHeight);
+        } else {
+            // Image fills whole width
+            let imageWidth = canvas.width * scalingFactor;
+            let imageHeight = imageWidth / imageAspectRatio;
+            let yOffset = (canvas.height - imageHeight) / 2;
+            context.drawImage(imageObject, 0, yOffset + yTranslation, imageWidth, imageHeight);
+        }
+    }
 }
+
+updateScrollingImages();
 
 function testForFadeIn() {
     fadeInContainers.forEach(container => {
@@ -48,7 +71,7 @@ function checkForAnchor() {
 }
 
 function scrollEventListener() {
-    updateParallaxImages();
+    updateScrollingImages();
     testForFadeIn();
 }
 

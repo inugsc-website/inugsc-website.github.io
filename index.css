@@ -142,6 +142,7 @@ main div.image_behind_text_container div.image_container {
     flex-grow: 1;
     overflow: hidden;
     position: relative;
+    display: flex;
 }
 
 main div.image_behind_text_container div.image_container img {
@@ -478,6 +479,11 @@ div#people_container span.person_role {
 div#people_container a.person_email {
     font-weight: 300;
     color: var(--blue-text-colour);
+}
+
+canvas.scrolling_image {
+    width: 100%;
+    display: block;
 }
 
 
