@@ -41,8 +41,6 @@ function updateScrollingImages() {
     }
 }
 
-updateScrollingImages();
-
 function testForFadeIn() {
     fadeInContainers.forEach(container => {
         if (container.className.indexOf("transition_performed") != -1) return;
@@ -78,6 +76,7 @@ function scrollEventListener() {
 function loadEventListener() {
     testForFadeIn();
     checkForAnchor();
+    updateScrollingImages();
 }
 
 function hashchangeEventListener() {
