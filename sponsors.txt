@@ -1,0 +1,24 @@
+This is a list of all the sponsors which will appear under "Our Sponsors".
+They'll appear in the order that they're listed here.
+Make sure to add new sponsors below the line of dashes.
+
+The format must be exactly as follows:
+/img/logo/<image_file_name>
+<Sponsor name>
+
+-----
+
+/img/logo/SpotterMed.png
+SpotterMed
+
+/img/logo/Getinge.png
+Getinge
+
+/img/logo/Medly_AI.png
+Medly AI
+
+/img/logo/MDU.png
+MDU
+
+/img/logo/Quesmed.png
+Quesmed

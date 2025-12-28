@@ -412,6 +412,7 @@ div#our_sponsors_container table {
 
 div#our_sponsors_container table td {
     text-align: center;
+    padding: 1rem 0;
 }
 
 div#our_sponsors_container img {
