@@ -1,0 +1,22 @@
+This is a list of all the speakers which will appear under "Our Speakers".
+They'll appear in the order that they're listed here.
+Make sure to add new people below the line of 5 dashes.
+
+The format must be exactly as follows:
+/img/people/<image_file_name>
+<Person's name>
+<Potentially multi-line description...>
+-
+
+For example:
+/img/people/rohan_peacock.avif
+Rohan Peacock
+Rohan Peacock is very cool.
+He will talk about some very cool stuff.
+You should buy a ticket to INUGSC to see this cool guy talk about cool stuff.
+-
+
+Make sure you include the single dash after each person!
+
+-----
+

@@ -50,6 +50,10 @@
                     <canvas class="scrolling_image" data-src="img/470f54_6638184e4d7340e8a6ec4b6400122c6b~mv2.jpg"></canvas>
                 </div>
             </div>
+            <div id="ticket_sales_container" class="full_width_container flex_column">
+                <h1>Tickets available now!</h1>
+                <a href="#"><button>Buy tickets</button></a>
+            </div>
             <div id="anchor_about" class="two_adjacent_text_containers">
                 <div class="text_container narrow white_background">
                     <div class="flex_column fade_in_while_scrolling">
@@ -152,7 +156,7 @@
             <div class="full_width_container flex_column" id="our_speakers_container">
                 <div id="anchor_speakers"></div>
                 <div class="background_image"></div>
-                <div class="alignment_container fade_in_while_scrolling">
+                <div id="speakers_container" class="alignment_container fade_in_while_scrolling">
                     <h1>Our Speakers</h1>
                     <small>To be confirmed and announced by the end of January. Stay tuned!</small>
                 </div>
@@ -160,7 +164,7 @@
             <div class="full_width_container flex_column" id="our_workshops_container">
                 <div id="anchor_workshops"></div>
                 <div class="background_image"></div>
-                <div class="alignment_container fade_in_while_scrolling">
+                <div id="workshops_container" class="alignment_container fade_in_while_scrolling">
                     <h1>Our Workshops</h1>
                     <small>To be confirmed and announced by the end of January. Stay tuned!</small>
                 </div>
@@ -199,7 +203,7 @@
                         <br />
                         <p>16 February - 1 March: Standard Tickets</p>
                         <br />
-                        <p>A link will be provided here on this website when ticket sales begin, and this will be advertised across our social media platforms and emails.</p>
+                        <p class="remove_when_tickets_available">A link will be provided here on this website when ticket sales begin, and this will be advertised across our social media platforms and emails.</p>
                     </div>
                 </div>
                 <div class="image_container">
@@ -219,5 +223,7 @@
         </main>
         <script src="index.js"></script>
         <script src="generate_sponsors.js"></script>
+        <script src="generate_speakers_and_workshops.js"></script>
+        <script src="check_for_tickets.js"></script>
     </body>
 </html>

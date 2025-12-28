@@ -1,0 +1,21 @@
+This is a list of all the workshops which will appear under "Our Workshops".
+They'll appear in the order that they're listed here.
+Make sure to add new ones below the line of 5 dashes.
+
+The format must be exactly as follows:
+/img/<image_file_name>
+<Workshop name>
+<Potentially multi-line description...>
+-
+
+For example:
+/img/Instagram_Glyph_Black.png
+How to spend more time on Reels
+Who needs surgery when you have Instagram Reels?
+Come along to find out how to spend more time scrolling.
+-
+
+Make sure you include the single dash after each person!
+
+-----
+

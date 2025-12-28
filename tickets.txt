@@ -1,0 +1,4 @@
+When tickets are available, update line 3 to "Tickets available: YES", and add the correct link.
+
+Tickets available: NO
+Ticket link: http://example.com/
