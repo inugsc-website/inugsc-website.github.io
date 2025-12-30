@@ -3,6 +3,16 @@
     src: url(/font/Assistant.ttf);
 }
 
+@keyframes parallax-effect {
+    0% {
+        transform: translateY(calc(-100vh + var(--offset)));
+    }
+
+    100% {
+        transform: translateY(calc(100vh + var(--offset)));
+    }
+}
+
 :root {
     --header-background: #1d1d5f;
     --text-container-background-narrow: #210790;
@@ -169,6 +179,8 @@ main div.image_behind_text_container div.image_container img {
     left: 0px;
     min-width: 100%;
     height: auto;
+    animation: parallax-effect linear forwards;
+    animation-timeline: scroll(root block);
 }
 
 main hr {

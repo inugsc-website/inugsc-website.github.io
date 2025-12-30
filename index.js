@@ -2,46 +2,6 @@ let fadeInContainers = [].slice.call(
     document.querySelectorAll(".fade_in_while_scrolling")
 );
 
-let scrollingImageCanvases = [].slice.call(
-    document.querySelectorAll("canvas.scrolling_image")
-);
-
-let scrollingImageObjects = scrollingImageCanvases.map(canvas => {
-    let image = new Image();
-    image.src = canvas.dataset.src;
-    return image;
-});
-
-let canvasContexts = scrollingImageCanvases.map(canvas => canvas.getContext("2d"));
-
-function updateScrollingImages() {
-    let headerHeight = document.querySelector("header").clientHeight;
-    let scalingFactor = Math.max(1.2, window.innerHeight / window.innerWidth * 1.2);
-    for (let i = 0; i < scrollingImageCanvases.length; i++) {
-        let canvas = scrollingImageCanvases[i];
-        canvas.width = canvas.clientWidth;
-        canvas.height = canvas.clientHeight;
-        let context = canvasContexts[i];
-        let imageObject = scrollingImageObjects[i];
-        let imageAspectRatio = imageObject.width / imageObject.height;
-        let yTranslation = - (canvas.getBoundingClientRect().y - headerHeight) / 1.5;
-        if (canvas.width < canvas.height) {
-            // Image fills whole height
-            let imageHeight = canvas.height * scalingFactor;
-            let imageWidth = imageHeight * imageAspectRatio;
-            let xOffset = (canvas.width - imageWidth) / 2;
-            context.drawImage(imageObject, xOffset, yTranslation, imageWidth, imageHeight);
-        } else {
-            // Image fills whole width
-            let imageWidth = canvas.width * scalingFactor;
-            let imageHeight = imageWidth / imageAspectRatio;
-            let yOffset = (canvas.height - imageHeight) / 2;
-            context.drawImage(imageObject, 0, yOffset + yTranslation, imageWidth, imageHeight);
-        }
-    }
-    requestAnimationFrame(updateScrollingImages);
-}
-
 function testForFadeIn() {
     fadeInContainers.forEach(container => {
         if (container.className.indexOf("transition_performed") != -1) return;
@@ -75,7 +35,6 @@ function scrollEventListener() {
 
 function loadEventListener() {
     checkForAnchor();
-    updateScrollingImages();
     testForFadeIn();
 }
 
