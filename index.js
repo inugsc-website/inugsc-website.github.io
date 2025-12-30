@@ -39,6 +39,7 @@ function updateScrollingImages() {
             context.drawImage(imageObject, 0, yOffset + yTranslation, imageWidth, imageHeight);
         }
     }
+    requestAnimationFrame(updateScrollingImages);
 }
 
 function testForFadeIn() {
@@ -69,14 +70,13 @@ function checkForAnchor() {
 }
 
 function scrollEventListener() {
-    updateScrollingImages();
     testForFadeIn();
 }
 
 function loadEventListener() {
-    testForFadeIn();
     checkForAnchor();
     updateScrollingImages();
+    testForFadeIn();
 }
 
 function hashchangeEventListener() {
