@@ -6,6 +6,7 @@ function createSponsorContainer(sponsor) {
     let img = document.createElement("img");
     img.src = sponsor.imgSrc;
     img.alt = `${sponsor.name} logo`;
+    if (sponsor.smaller) img.className = "smaller";
     sponsorContainer.appendChild(img);
 
     return sponsorContainer;
@@ -48,7 +49,12 @@ function parseSponsorsList(sponsorsFileContents) {
             if (currentSponsor.length == 2) {
                 let imgSrc = currentSponsor[0];
                 let name = currentSponsor[1];
-                sponsors.push({imgSrc, name});
+                let smaller = false;
+                if (name.startsWith("[Smaller] ")) {
+                    smaller = true;
+                    name = name.substring(10);
+                }
+                sponsors.push({imgSrc, name, smaller});
             }
             currentSponsor = [];
         } else {

@@ -6,6 +6,8 @@ The format must be exactly as follows:
 /img/logo/<image_file_name>
 <Sponsor name>
 
+Note: adding [Smaller] before a sponsor's name means that their image will appear smaller than it otherwise would.
+
 -----
 
 /img/logo/SpotterMed.png
@@ -18,7 +20,7 @@ Getinge
 Medly AI
 
 /img/logo/MDU.png
-MDU
+[Smaller] MDU
 
 /img/logo/Quesmed.png
 Quesmed

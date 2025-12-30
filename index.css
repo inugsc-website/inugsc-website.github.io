@@ -419,6 +419,10 @@ div#our_sponsors_container img {
     width: 20vw;
 }
 
+div#our_sponsors_container img.smaller {
+    width: 10vw;
+}
+
 div#details_container div.text_container {
     padding: 3rem 0;
     background-color: var(--text-container-background-medium);
