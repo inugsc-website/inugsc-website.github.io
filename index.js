@@ -109,7 +109,7 @@ headerLinks.forEach(headerLink => {
     headerLink.addEventListener("click", () => {
         if (getComputedStyle(headerHamburger).display == "block") {
             // If we are in mobile mode
-            headerListContainer.style.display = "";
+            headerListContainer.style.maxHeight = "";
         }
     });
 });
