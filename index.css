@@ -80,7 +80,7 @@ header img#header_logo {
 
 header span#header_name {
     font-size: 3rem;
-    font-weight: bold;
+    font-weight: normal;
     margin-left: 1rem;
 }
 
