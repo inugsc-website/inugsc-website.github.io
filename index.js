@@ -94,10 +94,10 @@ let headerHamburger = document.getElementById("header_hamburger_container");
 let headerListContainer = document.getElementById("header_list_container");
 
 headerHamburger.addEventListener("click", () => {
-    if (headerListContainer.style.display == "block") {
-        headerListContainer.style.display = "";
+    if (headerListContainer.style.maxHeight == "") {
+        headerListContainer.style.maxHeight = "100vh";
     } else {
-        headerListContainer.style.display = "block";
+        headerListContainer.style.maxHeight = "";
     }
 });
 

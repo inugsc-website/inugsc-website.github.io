@@ -606,7 +606,9 @@ div#ticket_sales_container a {
     header div#header_list_container {
         margin: 0;
         width: 100%;
-        display: none;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 300ms ease;
     }
 
     header div#header_list_container ul {
