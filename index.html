@@ -6,7 +6,7 @@
         <title>Home | inugsc</title>
         <link rel="stylesheet" href="/index.css" />
     </head>
-    <body>
+    <body style="--scroll-basis: 100vh">
         <header>
             <div id="header_logo_and_name_container">
                 <a href="/">
@@ -19,7 +19,16 @@
             </div>
             <div id="header_list_container">
                 <ul>
-                    <li><a href="#about">About</a></li>
+                    <li>
+                        <a href="#about">About</a>
+                        <img class="pop_out_activate" src="img/dropdown.png" />
+                        <div class="pop_out_menu">
+                            <ul>
+                                <li><a href="team-3">2026 Committee</a></li>
+                                <li><a href="wp">Widening participation</a></li>
+                            </ul>
+                        </div>
+                    </li>
                     <li><a href="#programme">Programme</a></li>
                     <li><a href="#abstract_competition">Abstract Competition</a></li>
                     <li><a href="#speakers">Speakers</a></li>
@@ -88,7 +97,10 @@
                         <p><b>Initiate</b> — Exploring bold ideas that are shaping the future of surgery through our keynote speakers and immersive workshops</p>
                         <p><b>Innovate</b> — Encouraging delegates to participate in cutting-edge research and transforming technologies mirrored through our academic competition</p>
                         <p><b>Interrelate</b> — Fostering global exchange, diversity in surgery, and meaningful connections across communities mirrored through our strong commitment to welcoming and accommodating international delegates </p>
-                        <a href="team-3"><button>2026 Committee</button></a>
+                        <div class="equally_sized_buttons">
+                            <a href="team-3"><button>2026 Committee</button></a>
+                            <a href="wp"><button>Widening participation</button></a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -225,6 +237,7 @@
         <script src="generate_sponsors.js"></script>
         <script src="generate_speakers_and_workshops.js"></script>
         <script src="check_for_tickets.js"></script>
+        <script src="handle_pop_out_menus.js"></script>
         <script src="https://flackr.github.io/scroll-timeline/dist/scroll-timeline.js"></script>
     </body>
 </html>

@@ -5,11 +5,11 @@
 
 @keyframes parallax-effect {
     0% {
-        transform: translateY(calc(-100vh + var(--offset)));
+        transform: translateY(calc(var(--scroll-basis) * -1 + var(--offset)));
     }
 
     100% {
-        transform: translateY(calc(100vh + var(--offset)));
+        transform: translateY(calc(var(--scroll-basis) + var(--offset)));
     }
 }
 
@@ -231,6 +231,18 @@ main div.full_width_container {
     justify-content: center;
     gap: 1rem;
     color: white;
+}
+
+main div.full_width_container.for_text {
+    color: black;
+}
+
+main div.full_width_container.for_text > * {
+    font-size: 1.1em;
+}
+
+main div.full_width_container.align_left {
+    display: block;
 }
 
 main button {
@@ -592,6 +604,40 @@ div#ticket_sales_container a {
     margin: 0 0 1rem 0;
 }
 
+div.equally_sized_buttons {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+}
+
+div.equally_sized_buttons button {
+    width: 100%;
+}
+
+h1.tall_title {
+    margin-bottom: 15rem;
+}
+
+div.pop_out_menu {
+    position: absolute;
+    top: 100%;
+    transform: translateX(calc(-50% + 1.5rem));
+    background: var(--header-background);
+    padding: 1rem;
+    width: max-content;
+    display: none;
+}
+
+div.pop_out_menu ul {
+    padding: 0;
+    flex-direction: column;
+    align-items: center;
+}
+
+img.pop_out_activate {
+    display: none;
+}
+
 
 
 
@@ -731,5 +777,37 @@ div#ticket_sales_container a {
 
     div.speaker_container div.description_container, div.workshop_container div.description_container {
         margin: .5rem 0 0 0;
+    }
+
+    h1.tall_title {
+        margin-bottom: 2.5rem;
+    }
+
+    div.image_behind_text_container div.image_container.wide_image {
+        height: 25vh;
+    }
+
+    li:has(> div.pop_out_menu) {
+        position: relative;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    img.pop_out_activate {
+        display: initial;
+        position: absolute;
+        top: -3px;
+        right: 0px;
+        height: 2rem;
+    }
+
+    div.pop_out_menu {
+        position: initial;
+        background: var(--blue-text-colour);
+        margin-top: 1rem;
+        width: 100%;
+        transform: initial;
     }
 }
