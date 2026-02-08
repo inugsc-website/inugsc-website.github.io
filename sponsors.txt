@@ -33,3 +33,6 @@ Quesmed
 
 /img/logo/RMBF.png
 Royal Medical Benevolent Fund
+
+/img/logo/Premier_Science.png
+Premier Science
