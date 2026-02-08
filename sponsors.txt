@@ -10,17 +10,17 @@ Note: adding [Smaller] before a sponsor's name means that their image will appea
 
 -----
 
-/img/logo/SpotterMed.png
-SpotterMed
+/img/logo/Medly_AI.png
+Medly
 
 /img/logo/Getinge.png
 Getinge
 
-/img/logo/Medly_AI.png
-Medly AI
+/img/logo/JOMI.png
+JOMI
+
+/img/logo/SpotterMed.png
+SpotterMed
 
 /img/logo/MDU.png
-[Smaller] MDU
-
-/img/logo/Quesmed.png
-Quesmed
+MDU
