@@ -23,7 +23,7 @@ JOMI
 SpotterMed
 
 /img/logo/MDU.png
-MDU
+[Smaller] MDU
 
 /img/logo/MedShr.png
 MedShr
