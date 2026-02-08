@@ -27,3 +27,6 @@ MDU
 
 /img/logo/MedShr.png
 MedShr
+
+/img/logo/Quesmed.png
+Quesmed
