@@ -30,3 +30,6 @@ MedShr
 
 /img/logo/Quesmed.png
 Quesmed
+
+/img/logo/RMBF.png
+Royal Medical Benevolent Fund
