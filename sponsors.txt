@@ -24,3 +24,6 @@ SpotterMed
 
 /img/logo/MDU.png
 MDU
+
+/img/logo/MedShr.png
+MedShr
