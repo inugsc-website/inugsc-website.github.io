@@ -1,4 +1,4 @@
 When tickets are available, update line 3 to "Tickets available: YES", and add the correct link.
 
-Tickets available: NO
-Ticket link: http://example.com/
+Tickets available: YES
+Ticket link: https://studentsunionucl.org/whats-on/events-activities/international-undergraduate-surgical-conference-2026-inugsc
