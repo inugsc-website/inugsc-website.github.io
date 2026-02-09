@@ -19,4 +19,14 @@ You should buy a ticket to INUGSC to see this cool guy talk about cool stuff.
 Make sure you include the single dash after each person!
 
 -----
-
+/img/people/ashley_simpson.avif
+Ashley Simpson
+Mr Ashley Simpson is a Consultant Peripheral Nerve Surgeon at the Royal National Orthopaedic Hospital, specialising in adult and paediatric brachial plexus and peripheral nerve injuries. His career journey began with an undergraduate degree in Neuroscience at St John’s College, University of Cambridge. An early interest in extreme physiology led him to work as a Flight Surgeon Intern at the European Space Agency in Cologne, Germany, before returning to an Academic Foundation Programme in Orthopaedics. Alongside clinical practice, he is Trustee and Chair of the Clinical Advisory Board at Pain UK, Associate Editor of Shoulder & Elbow, and serves on education committees for BESS, SICOT, and the Global Nerve Foundation. He is also an international Fellowship Supervisor for nerve injury and surgical leadership.
+-
+/img/people/vaidya_jayant.avif
+Vaidya Jayant
+Mr Vaidya Jayant is a Professor of Surgery and Oncology at University College London and a Consultant Breast Surgeon with over 35 years’ experience, having treated more than 3000 breast cancer patients. An internationally recognised leader in breast cancer surgery and oncology, he is best known for developing TARGIT intraoperative radiotherapy (IORT), which delivers targeted radiotherapy during lumpectomy and has been used in over 50,000 patients worldwide. His work was recognised by the NIHR in 2021 as a major UK research breakthrough. He has published over 200 peer-reviewed papers including several challenging dogma in many aspects of surgical oncology. He advises bodies such as NICE, and is a frequent media contributor. His work has directly reshaped global breast cancer treatment pathways, bridging surgical innovation, clinical trials and real-world NHS delivery.
+-
+/img/people/ioannis_loukopoulos.avif
+Ioannis Loukopoulos
+Mr Loukopoulos graduated from the Medical School of University of Athens in 1997 and completed his training in general surgery in 2005. He worked 6 years as consultant in general surgery and kidney transplantation in Evangelismos Hospital in Athens. In 2012 he moved to UK and Guy’s Hospital, where he was appointed as Consultant Transplant Surgeon in 2013. He is an expert in adult and paediatric kidney transplantation, in pancreas transplantation and in vascular access surgery. His main interests are, paediatric kidney transplantation (he operates on children as small as 10 kg) and robotic surgery for kidney donors and recipients. He is currently the only surgeon in UK to perform independently robotic donor nephrectomy and robotic kidney transplantation with more than 150 cases completed so far.
