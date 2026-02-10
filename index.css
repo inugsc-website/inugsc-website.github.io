@@ -810,26 +810,3 @@ img.pop_out_activate {
         transform: initial;
     }
 }
-/* Parallax sections - add this class to sections with background images */
-.parallax {
-    position: relative;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 400px; /* Adjust as needed */
-}
-
-/* Disable parallax on mobile for performance */
-@media (max-width: 768px) {
-    .parallax {
-        background-attachment: scroll !important;
-    }
-}
-
-/* Fix for iOS Safari */
-@supports (-webkit-overflow-scrolling: touch) {
-    .parallax {
-        background-attachment: scroll;
-    }
-}
