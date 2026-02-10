@@ -141,18 +141,13 @@ main div.text_container.narrow {
     flex: 0 0 20vw;
 }
 
-main div.image_behind_text_container div.image_container img {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    min-width: 100%;
-    min-height: 100%;
-    width: auto;
-    height: auto;
-    object-fit: cover;
-    animation: parallax-effect linear forwards;
-    animation-timeline: scroll(root block);
+main div.text_container.medium {
+    background: var(--text-container-background-medium);
+    color: var(--blue-text-colour);
+    padding: 2rem 10rem 2rem 2rem;
+    flex: 0 0 40vw;
+    font-size: .8rem;
+    box-sizing: border-box;
 }
 
 main div.text_container.half {
