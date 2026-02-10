@@ -1,373 +1,289 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="The International Undergraduate Surgical Conference (INUGSC) 2026 - The largest student-led surgical conference in the UK">
-    <meta name="keywords" content="INUGSC, surgical conference, medical students, UCL, surgery">
-    <title>INUGSC 2026 | International Undergraduate Surgical Conference</title>
-    
-    <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="favicon.ico">
-    
-    <!-- Stylesheet -->
-    <link rel="stylesheet" href="index.css">
-</head>
-<body>
-    <!-- Navigation -->
-    <nav>
-        <a href="/" class="logo">
-            <img src="img/OFFICIAL_LOGO.png" alt="INUGSC logo">
-        </a>
-        
-        <div class="menu-toggle">
-            <img src="img/hamburger.png" alt="Menu">
-        </div>
-        
-        <ul>
-            <li>
-                <a href="#about">About</a>
-                <img src="img/dropdown.png" alt="" class="dropdown-icon">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Home | inugsc</title>
+        <link rel="stylesheet" href="/index.css" />
+    </head>
+    <body style="--scroll-basis: 100vh">
+        <header>
+            <div id="header_logo_and_name_container">
+                <a href="/">
+                    <img class="circle_clip_path" id="header_logo" src="img/OFFICIAL_LOGO.png" alt="INUGSC logo" />
+                    <span id="header_name">INUGSC</span>
+                </a>
+            </div>
+            <div id="header_hamburger_container">
+                <img src="img/hamburger.png" alt="Menu" />
+            </div>
+            <div id="header_list_container">
                 <ul>
-                    <li><a href="team-3">2026 Committee</a></li>
-                    <li><a href="wp">Widening Participation</a></li>
+                    <li>
+                        <a href="#about">About</a>
+                        <img class="pop_out_activate" src="img/dropdown.png" />
+                        <div class="pop_out_menu">
+                            <ul>
+                                <li><a href="team-3">2026 Committee</a></li>
+                                <li><a href="wp">Widening Participation</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="#programme">Programme</a></li>
+                    <li><a href="#abstract_competition">Abstract Competition</a></li>
+                    <li><a href="#speakers">Speakers</a></li>
+                    <li><a href="#workshops">Workshops</a></li>
+                    <li><a href="#registration">Registration</a></li>
                 </ul>
-            </li>
-            <li><a href="#programme">Programme</a></li>
-            <li><a href="#abstract_competition">Abstract Competition</a></li>
-            <li><a href="#speakers">Speakers</a></li>
-            <li><a href="#workshops">Workshops</a></li>
-            <li><a href="#registration">Registration</a></li>
-        </ul>
-        
-        <div class="social-icons">
-            <a href="https://www.instagram.com/inugsc.ucl/" target="_blank" rel="noopener">
-                <img src="img/Instagram_Glyph_Black.png" alt="Instagram">
-            </a>
-            <a href="https://www.linkedin.com/company/ucl-surg-soc/" target="_blank" rel="noopener">
-                <img src="img/InBug-Black.png" alt="LinkedIn">
-            </a>
-        </div>
-    </nav>
-
-    <!-- Hero Section with Parallax -->
-    <section class="hero parallax" style="background-image: url('img/470f54_6638184e4d7340e8a6ec4b6400122c6b~mv2.jpg');">
-        <div class="parallax-content">
-            <h1>The International Undergraduate Surgical Conference</h1>
-            <hr>
-            <h3>Initiate</h3>
-            <h3>Innovate</h3>
-            <h3>Interrelate</h3>
-            <hr>
-            <em>15th Anniversary</em>
-            <p>7-8 March 2026</p>
-            
-            <a href="#registration" class="btn cta-button mt-2">Buy Tickets</a>
-        </div>
-    </section>
-
-    <!-- About Section -->
-    <section id="about">
-        <div class="container">
-            <h2 class="text-center">About INUGSC</h2>
-            
-            <img src="img/Scrub Logo - Final (1).avif" alt="Scrub logo" style="max-width: 200px; margin: 2rem auto; display: block;">
-            
-            <p>Founded by the UCL Surgical Society, the International Undergraduate Surgical Conference (INUGSC) was established in 2011 as the first conference of its kind. Created to provide medical students from around the world with access to high-quality surgical education beyond the traditional school curricula, INUGSC's emphasis remains on encouraging innovation and cross-cultural exchange, pushing practical training, and pursuing academic excellence.</p>
-            
-            <p>Our conference has been widely recognised for its standards and impact and has received endorsements from the Royal College of Surgeons of England (RCS), the Royal College of Surgeons of Edinburgh (RCSEd), the General Medical Council (GMC), and the British Medical Association (BMA). In 2023, its growing influence was further acknowledged when UCL Surgical Society received the Opportunities Award, following INUGSC's recognition as the largest student-led surgical conference in the UK.</p>
-            
-            <p>Over the years, INUGSC has continued to expand in both scale and ambition, welcoming over 500 delegates in recent years. In 2025, we welcomed in-person students from the United Kingdom, United States, Malta, Belgium, Cyprus, Estonia, Georgia, Hong Kong, Singapore, Italy, Poland, Indonesia, and Thailand. We hope this growth reflects the consistently high calibre of keynote lectures, panel discussions, and hands-on workshops, all carefully designed to be accessible and relevant to medical students across the globe.</p>
-            
-            <p>As INUGSC celebrates its 15th anniversary, the conference continues its legacy of showcasing pioneering ideas, cutting-edge research, and forward-thinking approaches to surgical education—aiming to remain a platform for inspiration, collaboration, and progress for the next generation of surgeons worldwide. A particular focus this year will be on our workshops, which we hope delegates will find new and creative.</p>
-            
-            <!-- Logo Gallery -->
-            <div class="logo-gallery mt-3">
-                <img src="img/CircleLogo.avif" alt="INUGSC 10th anniversary logo">
-                <img src="img/Screenshot 2025-12-20 at 10_52_edited.avif" alt="INUGSC 2023 logo">
-                <img src="img/470f54_37830c7006a249308d631eb2cfe497db~mv2.avif" alt="INUGSC 2024 logo">
-                <img src="img/470f54_83a8db48d04e4ec395361452d26b6d3a~mv2.avif" alt="INUGSC 2025 logo">
-                <img src="img/470f54_815bbb52c871467482f27cc40d184fe4~mv2.avif" alt="INUGSC 2026 logo">
             </div>
-        </div>
-    </section>
-
-    <!-- Theme Section with Parallax -->
-    <section class="parallax" style="background-image: url('img/470f54_0233176ba0534b778cda136c401cbbdc~mv2.avif');">
-        <div class="parallax-content">
-            <h3>2026 Theme: <em>"INUGSC: Initiate, Innovate, Interrelate"</em></h3>
-            
-            <p class="mt-2">The 2026 theme captures the core values of INUGSC, which we want to reflect on this anniversary:</p>
-            
-            <p><strong>Initiate</strong> — Exploring bold ideas that are shaping the future of surgery through our keynote speakers and immersive workshops</p>
-            
-            <p><strong>Innovate</strong> — Encouraging delegates to participate in cutting-edge research and transforming technologies mirrored through our academic competition</p>
-            
-            <p><strong>Interrelate</strong> — Fostering global exchange, diversity in surgery, and meaningful connections across communities mirrored through our strong commitment to welcoming and accommodating international delegates</p>
-            
-            <div class="mt-2">
-                <a href="team-3" class="btn">2026 Committee</a>
-                <a href="wp" class="btn btn-secondary">Widening Participation</a>
-            </div>
-        </div>
-    </section>
-
-    <!-- Programme Section -->
-    <section id="programme">
-        <div class="container">
-            <h2 class="text-center">Conference Schedule</h2>
-            
-            <h3 class="mt-3">Saturday</h3>
-            <table>
-                <thead>
-                    <tr>
-                        <th>Time</th>
-                        <th>Event</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>08:30-09:00</td>
-                        <td>Registration</td>
-                    </tr>
-                    <tr>
-                        <td>09:15-09:30</td>
-                        <td>Welcome</td>
-                    </tr>
-                    <tr>
-                        <td>09:30-10:30</td>
-                        <td>First Speaker</td>
-                    </tr>
-                    <tr>
-                        <td>10:35-11:35</td>
-                        <td>Workshop 1</td>
-                    </tr>
-                    <tr>
-                        <td>11:35-11:50</td>
-                        <td>Coffee</td>
-                    </tr>
-                    <tr>
-                        <td>12:00-13:00</td>
-                        <td>Second Speaker</td>
-                    </tr>
-                    <tr>
-                        <td>13:05-13:50</td>
-                        <td>Lunch</td>
-                    </tr>
-                    <tr>
-                        <td>14:00-15:00</td>
-                        <td>Oral Presentations</td>
-                    </tr>
-                    <tr>
-                        <td>15:05-16:05</td>
-                        <td>Workshop 2</td>
-                    </tr>
-                    <tr>
-                        <td>16:10-17:00</td>
-                        <td>Networking</td>
-                    </tr>
-                </tbody>
-            </table>
-            
-            <h3 class="mt-3">Sunday</h3>
-            <table>
-                <thead>
-                    <tr>
-                        <th>Time</th>
-                        <th>Event</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>09:00-09:25</td>
-                        <td>Registration</td>
-                    </tr>
-                    <tr>
-                        <td>09:30-10:30</td>
-                        <td>Third Speaker</td>
-                    </tr>
-                    <tr>
-                        <td>10:35-11:35</td>
-                        <td>Workshop 3</td>
-                    </tr>
-                    <tr>
-                        <td>11:35-11:50</td>
-                        <td>Coffee</td>
-                    </tr>
-                    <tr>
-                        <td>12:00-13:00</td>
-                        <td>Fourth Speaker</td>
-                    </tr>
-                    <tr>
-                        <td>13:05-13:50</td>
-                        <td>Lunch</td>
-                    </tr>
-                    <tr>
-                        <td>14:00-15:00</td>
-                        <td>Workshop 4</td>
-                    </tr>
-                    <tr>
-                        <td>15:05-16:00</td>
-                        <td>Prize-Giving & Closing Remarks</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-    </section>
-
-    <!-- Abstract Competition Section -->
-    <section id="abstract_competition">
-        <div class="container">
-            <h2 class="text-center">INUGSC 2026 Abstract Competition</h2>
-            
-            <p>The International Undergraduate Surgical Conference 2026 proudly invites submissions for our Abstract Competition, an opportunity for aspiring researchers to showcase their innovation, critical thinking, and scientific rigour.</p>
-            
-            <p>We welcome abstracts from all types of research projects. Whether your work is complete or ongoing, we encourage you to share your findings and contribute to the growing body of surgical science.</p>
-            
-            <p>The top three abstracts, as judged by three external academic surgeons, will be invited to orally present their research during the conference. The remaining finalists will be invited for poster presentation. Both the oral and poster presentations will be judged by a panel of distinguished academic surgeons and scientists on the day.</p>
-            
-            <p>The winning poster and oral presentation entrant will receive free publication of their full paper in the peer-reviewed Premier Science Journal, offering an opportunity to gain recognition and establish a foundation for a career in academic surgery. All three oral presentations will get their abstracts published in the Premier Science Journal.</p>
-            
-            <p>Please join us in celebrating surgical innovation, collaboration, and the future of medicine.</p>
-            
-            <p class="mt-2"><em>Disclaimer: All presenters will be required to purchase a conference ticket</em></p>
-            
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfvOmaavDpz3N54Sr_hzCcpWqENR7BkrwbiJh9X34xI4UX6pQ/viewform" class="btn mt-2" target="_blank" rel="noopener">Submit an Abstract</a>
-            
-            <p class="mt-2"><strong>Deadline: 31st January 2026</strong></p>
-            
-            <p>For any questions please contact Manasi Dedhia: <a href="mailto:Manasi.Dedhia.22@ucl.ac.uk">Manasi.Dedhia.22@ucl.ac.uk</a></p>
-        </div>
-    </section>
-
-    <!-- Parallax Image Section -->
-    <section class="parallax" style="background-image: url('img/470f54_a13d596bcb7546a4aebb1eb08665c2f6~mv2.avif');">
-        <div class="parallax-content">
-            <!-- Optional content -->
-        </div>
-    </section>
-
-    <!-- Speakers Section -->
-    <section id="speakers">
-        <div class="container">
-            <h2 class="text-center">Our Speakers</h2>
-            <p class="text-center">To be confirmed and announced by the end of January. Stay tuned!</p>
-            
-            <!-- This will be populated by generate_speakers_and_workshops.js -->
-            <div id="speakers-container"></div>
-        </div>
-    </section>
-
-    <!-- Workshops Section -->
-    <section id="workshops">
-        <div class="container">
-            <h2 class="text-center">Our Workshops</h2>
-            <p class="text-center">To be confirmed and announced by the end of January. Stay tuned!</p>
-            
-            <!-- This will be populated by generate_speakers_and_workshops.js -->
-            <div id="workshops-container"></div>
-        </div>
-    </section>
-
-    <!-- Registration/Sponsors Section -->
-    <section id="registration">
-        <div class="container">
-            <h2 class="text-center">OUR SPONSORS</h2>
-            
-            <!-- This will be populated by generate_sponsors.js -->
-            <div id="sponsors-container"></div>
-            
-            <h2 class="text-center mt-3">2026 Details</h2>
-            
-            <div style="max-width: 800px; margin: 2rem auto;">
-                <p><strong>Date:</strong><br>
-                Saturday 7 March – Sunday 8 March 2026</p>
-                
-                <p><strong>Location:</strong><br>
-                UCL Great Ormond Street Institute of Child Health<br>
-                30 Guilford St, London WC1N 1EH, UK</p>
-                
-                <p><strong>Contact:</strong><br>
-                Email: <a href="mailto:inugsc@gmail.com">inugsc@gmail.com</a><br>
-                Instagram: @inugsc.ucl</p>
-                
-                <p><strong>Directors (Surgical Society Vice-Presidents):</strong><br>
-                Elizabeth (Lizzie) Fu: <a href="mailto:elizabeth.fu.23@ucl.ac.uk">elizabeth.fu.23@ucl.ac.uk</a><br>
-                Rachel Chan: <a href="mailto:rachel.chan.22@ucl.ac.uk">rachel.chan.22@ucl.ac.uk</a></p>
-                
-                <h3 class="mt-3 text-center">TICKETS</h3>
-                
-                <p class="text-center">Ticket sales will be through the UCL Student Union website as follows:</p>
-                
-                <!-- This will be populated by check_for_tickets.js -->
-                <div id="tickets-info">
-                    <p class="text-center"><strong>SOLD OUT</strong></p>
-                    
-                    <table class="mt-2">
-                        <thead>
-                            <tr>
-                                <th>Ticket Type</th>
-                                <th>Date Range</th>
-                                <th>Price</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>Early Bird Tickets<br><small>(May sell out before window closes)</small></td>
-                                <td>9th February - 15th February</td>
-                                <td>£30</td>
-                            </tr>
-                            <tr>
-                                <td>Standard Tickets<br><small>(UCL Surgical Society members)</small></td>
-                                <td>16th February – 1st March</td>
-                                <td>£35</td>
-                            </tr>
-                            <tr>
-                                <td>Standard Tickets<br><small>(Non-members)</small></td>
-                                <td>16th February – 1st March</td>
-                                <td>£38</td>
-                            </tr>
-                            <tr>
-                                <td>Online Tickets</td>
-                                <td>9th February – 6th March</td>
-                                <td>£10</td>
-                            </tr>
-                        </tbody>
-                    </table>
+        </header>
+        <aside id="floating_socials_container">
+            <a href="https://www.instagram.com/inugsc.ucl/"><img src="img/Instagram_Glyph_Black.png" alt="Instagram" /></a>
+            <a href="https://www.linkedin.com/company/ucl-surg-soc/"><img src="img/InBug-Black.png" alt="LinkedIn" /></a>
+        </aside>
+        <main>
+            <div class="image_behind_text_container text_on_left">
+                <div class="text_container narrow">
+                    <h3>The International Undergraduate Surgical Conference</h3>
+                    <hr />
+                    <p>Initiate</p>
+                    <p>Innovate</p>
+                    <p>Interrelate</p>
+                    <hr />
+                    <div class="light_font_weight">
+                        <p><i>15th Anniversary</i></p>
+                        <p>7-8 March 2026</p>
+                    </div>
+                </div>
+                <div class="image_container">
+                    <img style="--offset: 80vh" src="img/470f54_6638184e4d7340e8a6ec4b6400122c6b~mv2.jpg" />
                 </div>
             </div>
-        </div>
-    </section>
-
-    <!-- Final Parallax Section -->
-    <section class="parallax" style="background-image: url('img/470f54_041b3a27db314e168f9a7be535d29670~mv2.avif');">
-        <div class="parallax-content">
-            <!-- Optional content -->
-        </div>
-    </section>
-
-    <!-- Footer -->
-    <footer>
-        <div class="social-icons">
-            <a href="https://www.instagram.com/inugsc.ucl/" target="_blank" rel="noopener">
-                <img src="img/Instagram_Glyph_Black.png" alt="Instagram">
-            </a>
-            <a href="https://www.linkedin.com/company/ucl-surg-soc/" target="_blank" rel="noopener">
-                <img src="img/InBug-Black.png" alt="LinkedIn">
-            </a>
-        </div>
+            <div id="ticket_sales_container" class="full_width_container flex_column">
+                <h1>Tickets available now!</h1>
+                <a href="#"><button>Buy tickets</button></a>
+            </div>
+            <div id="anchor_about" class="two_adjacent_text_containers">
+                <div class="text_container narrow white_background">
+                    <div class="flex_column fade_in_while_scrolling">
+                        <h2>About INUGSC</h2>
+                        <img src="img/Scrub Logo - Final (1).avif" alt="Scrub logo" />
+                    </div>
+                </div>
+                <div class="text_container wide">
+                    <div class="fade_in_while_scrolling">
+                        <p>Founded by the UCL Surgical Society, the International Undergraduate Surgical Conference (INUGSC) was established in 2011 as the first conference of its kind. Created to provide medical students from around the world with access to high-quality surgical education beyond the traditional school curricula, INUGSC’s emphasis remains on encouraging innovation and cross-cultural exchange, pushing practical training, and pursuing academic excellence.</p>
+                        <p>Our conference has been widely recognised for its standards and impact and has received endorsements from the Royal College of Surgeons of England (RCS), the Royal College of Surgeons of Edinburgh (RCSEd), the General Medical Council (GMC), and the British Medical Association (BMA). In 2023, its growing influence was further acknowledged when UCL Surgical Society received the Opportunities Award, following INUGSC’s recognition as the largest student-led surgical conference in the UK. </p>
+                        <p>Over the years, INUGSC has continued to expand in both scale and ambition, welcoming over 500 delegates in recent years. In 2025, we welcomed in-person students from the United Kingdom, United States, Malta, Belgium, Cyprus, Estonia, Georgia, Hong Kong, Singapore, Italy, Poland, Indonesia, and Thailand. We hope this growth reflects the consistently high calibre of keynote lectures, panel discussions, and hands-on workshops, all carefully designed to be accessible and relevant to medical students across the globe.</p>
+                        <p>As INUGSC celebrates its 15th anniversary, the conference continues its legacy of showcasing pioneering ideas, cutting-edge research, and forward-thinking approaches to surgical education—aiming to remain a platform for inspiration, collaboration, and progress for the next generation of surgeons worldwide. A particular focus this year will be on our workshops, which we hope delegates will find new and creative.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="full_width_container">
+                <img class="circle_clip_path fade_in_while_scrolling" src="img/CircleLogo.avif" alt="INUGSC 10th anniversary logo" />
+                <img class="circle_clip_path fade_in_while_scrolling" src="img/Screenshot 2025-12-20 at 10_52_edited.avif" alt="INUGSC 2023 logo" />
+                <img class="circle_clip_path fade_in_while_scrolling" src="img/470f54_37830c7006a249308d631eb2cfe497db~mv2.avif" alt="INUGSC 2024 logo" />
+                <img class="circle_clip_path fade_in_while_scrolling" src="img/470f54_83a8db48d04e4ec395361452d26b6d3a~mv2.avif" alt="INUGSC 2025 logo" />
+                <img class="circle_clip_path fade_in_while_scrolling" src="img/470f54_815bbb52c871467482f27cc40d184fe4~mv2.avif" alt="INUGSC 2026 logo" />
+            </div>
+            <div class="image_behind_text_container text_on_right">
+                <div class="image_container">
+                    <img style="--offset: 20vh" src="img/470f54_0233176ba0534b778cda136c401cbbdc~mv2.avif" />
+                </div>
+                <div class="text_container medium">
+                    <div class="light_font_weight fade_in_while_scrolling">
+                        <h3>2026 Theme:<br /><i>"INUGSC: Initiate, Innovate, Interrelate"</i></h3>
+                        <p>The 2026 theme captures the core values of INUGSC, which we want to reflect on this anniversary:</p>
+                        <p><b>Initiate</b> — Exploring bold ideas that are shaping the future of surgery through our keynote speakers and immersive workshops</p>
+                        <p><b>Innovate</b> — Encouraging delegates to participate in cutting-edge research and transforming technologies mirrored through our academic competition</p>
+                        <p><b>Interrelate</b> — Fostering global exchange, diversity in surgery, and meaningful connections across communities mirrored through our strong commitment to welcoming and accommodating international delegates </p>
+                        <div class="equally_sized_buttons">
+                            <a href="team-3"><button>2026 Committee</button></a>
+                            <a href="wp"><button>Widening Participation</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="full_width_container flex_column" id="conference_schedule_container">
+                <div id="anchor_programme"></div>
+                <div class="background_image"></div>
+                <h2>Conference Schedule</h2>
+                <div class="side_by_side_container">
+                    <div class="left_side fade_in_while_scrolling">
+                        <table>
+                            <tr><th colspan="2">Saturday</th></tr>
+                            <tr><td>08:30-09:00</td><td>Registration</td></tr>
+                            <tr><td>09:15-09:30</td><td>Welcome</td></tr>
+                            <tr><td>09:30-10:30</td><td>First Speaker</td></tr>
+                            <tr><td>10:35-11:35</td><td>Workshop 1</td></tr>
+                            <tr><td>11:35-11:50</td><td>Coffee</td></tr>
+                            <tr><td>12:00-13:00</td><td>Second Speaker</td></tr>
+                            <tr><td>13:05-13:50</td><td>Lunch</td></tr>
+                            <tr><td>14:00-15:00</td><td>Oral Presentations</td></tr>
+                            <tr><td>15:05-16:05</td><td>Workshop 2</td></tr>
+                            <tr><td>16:10-17:00</td><td>Networking</td></tr>
+                        </table>
+                    </div>
+                    <div class="separator fade_in_while_scrolling"></div>
+                    <div class="right_side fade_in_while_scrolling">
+                        <table>
+                            <tr><th colspan="2">Sunday</th></tr>
+                            <tr><td>09:00-09:25</td><td>Registration</td></tr>
+                            <tr><td>09:30-10:30</td><td>Third Speaker</td></tr>
+                            <tr><td>10:35-11:35</td><td>Workshop 3</td></tr>
+                            <tr><td>11:35-11:50</td><td>Coffee</td></tr>
+                            <tr><td>12:00-13:00</td><td>Fourth Speaker</td></tr>
+                            <tr><td>13:05-13:50</td><td>Lunch</td></tr>
+                            <tr><td>14:00-15:00</td><td>Workshop 4</td></tr>
+                            <tr><td>15:05-16:00</td><td>Prize-Giving & Closing Remarks</td></tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div id="anchor_abstract_competition" class="image_behind_text_container text_on_left">
+                <div class="text_container half">
+                    <div class="fade_in_while_scrolling">
+                        <h3>INUGSC 2026 Abstract Competition</h3>
+                        <p>The International Undergraduate Surgical Conference 2026 proudly invites submissions for our Abstract Competition, an opportunity for aspiring researchers to showcase their innovation, critical thinking, and scientific rigour.</p>
+                        <p>We welcome abstracts from all types of research projects. Whether your work is complete or ongoing, we encourage you to share your findings and contribute to the growing body of surgical science.</p>
+                        <p>The top three abstracts, as judged by three external academic surgeons, will be invited to orally present their research during the conference. The remaining finalists will be invited for poster presentation. Both the oral and poster presentations will be judged by a panel of distinguished academic surgeons and scientists on the day. </p>
+                        <p>The winning poster and oral presentation entrant will receive free publication of their full paper in the peer-reviewed Premier Science Journal, offering an opportunity to gain recognition and establish a foundation for a career in academic surgery. All three oral presentations will get their abstracts published in the Premier Science Journal. </p>
+                        <p>Please join us in celebrating surgical innovation, collaboration, and the future of medicine.</p>
+                        <small class="very"><i>Disclaimer: All presenters will be required to purchase a conference ticket</i></small>
+                        <div class="centred">
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfvOmaavDpz3N54Sr_hzCcpWqENR7BkrwbiJh9X34xI4UX6pQ/viewform">
+                                <button class="inverted">Submit an Abstract</button>
+                            </a>
+                            <p>
+                                <u>Deadline: 31st January 2026</u>
+                                <p>For any questions please contact Manasi Dedhia: <a class="unstyled" href="mailto:Manasi.Dedhia.22@ucl.ac.uk">Manasi.Dedhia.22@ucl.ac.uk</a></p>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="image_container">
+                    <img style="--offset: -20vh" src="img/470f54_a13d596bcb7546a4aebb1eb08665c2f6~mv2.avif" />
+                </div>
+            </div>
+            <div class="full_width_container flex_column" id="our_speakers_container">
+                <div id="anchor_speakers"></div>
+                <div class="background_image"></div>
+                <div id="speakers_container" class="alignment_container fade_in_while_scrolling">
+                    <h1>Our Speakers</h1>
+                    <small>To be confirmed and announced by the end of January. Stay tuned!</small>
+                </div>
+            </div>
+            <div class="full_width_container flex_column" id="our_workshops_container">
+                <div id="anchor_workshops"></div>
+                <div class="background_image"></div>
+                <div id="workshops_container" class="alignment_container fade_in_while_scrolling">
+                    <h1>Our Workshops</h1>
+                    <small>To be confirmed and announced by the end of January. Stay tuned!</small>
+                </div>
+            </div>
+            <div class="full_width_container flex_column" id="our_sponsors_container">
+                <h1><div class="light_font_weight">OUR SPONSORS</div></h1>
+                <table id="sponsors_table" class="fade_in_while_scrolling">
+                    <!-- The contents of this table are generated by ./generate_sponsors.js. -->
+                </table>
+            </div>
+            <div class="image_behind_text_container text_on_left" id="details_container">
+                <div class="text_container half white_background" id="anchor_registration">
+                    <div class="fade_in_while_scrolling">
+                        <h3>2026 Details:</h3>
+                        <br />
+                        <u><b>Date:</b></u>
+                        <p>Saturday 7 March – Sunday 8 March 2026</p>
+                        <br />
+                        <u><b>Location:</b></u>
+                        <p>UCL Great Ormond Street Institute of Child Health</p>
+                        <p>30 Guilford St, London WC1N 1EH, UK</p>
+                        <br />
+                        <u><b>Contact:</b></u>
+                        <p>Email: <a class="unstyled" href="mailto:inugsc@gmail.com">inugsc@gmail.com</a></p>
+                        <p>Instagram: @inugsc.ucl</p>
+                        <br />
+                        <u><b>Directors (Surgical Society Vice-Presidents):</b></u>
+                        <p>Elizabeth (Lizzie) Fu: <a class="unstyled" href="mailto:elizabeth.fu.23@ucl.ac.uk">elizabeth.fu.23@ucl.ac.uk</a></p>
+                        <p>Rachel Chan: <a class="unstyled" href="mailto:rachel.chan.22@ucl.ac.uk">rachel.chan.22@ucl.ac.uk</a></p>
+                        <br />
+                        <u><b>TICKETS:</b></u>
+                        <p>Ticket sales will be through the UCL Student Union website as follows:</p>
+                        <br />
+                         <div style="position: relative; width: 80%; margin: 0;">
+<div style="position: absolute; top: 25px; left: 0; width: 100%; text-align: center; transform: translateY(-50%); z-index: 10; pointer-events: none;">
+        <span style="color: red; font-weight: bold; font-size: 2.5em;">SOLD OUT</span>
+    </div>
+<table style="border-collapse: collapse; width: 100%; text-align: center; border: 2px solid rgb(29, 18, 178); color: rgb(29, 18, 178);">
         
-        <p>©2026 UCL Surgical Society. Website created by <a href="https://www.linkedin.com/in/dylan-heydon-matterface-97036220a/" target="_blank" rel="noopener">Dylan Heydon-Matterface</a>.</p>
-    </footer>
+        <tr>
+            <td style="border: 1px solid rgb(29, 18, 178); padding: 5px; vertical-align: middle; line-height: 1.2; position: relative;">
+                Early Bird Tickets<br>
+                <span style="font-size: 0.7em;">(May sell out before window closes)</span>
+                <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(29, 18, 178, 0.2); backdrop-filter: blur(1px);"></div>
+            </td>
+            
+            <td style="border: 1px solid rgb(29, 18, 178); padding: 10px; vertical-align: middle; position: relative;">
+                9<sup>th</sup> February - 15<sup>th</sup> February
+                <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(29, 18, 178, 0.2); backdrop-filter: blur(1px);"></div>
+            </td>
+            
+            <td style="border: 1px solid rgb(29, 18, 178); padding: 10px; vertical-align: middle; position: relative;">
+                £30
+                <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(29, 18, 178, 0.2); backdrop-filter: blur(1px);"></div>
+            </td>
+        </tr>
 
-    <!-- JavaScript Files -->
-    <script src="index.js"></script>
-    <script src="generate_committee.js"></script>
-    <script src="generate_speakers_and_workshops.js"></script>
-    <script src="generate_sponsors.js"></script>
-    <script src="check_for_tickets.js"></script>
-    <script src="handle_pop_out_menus.js"></script>
-    <script src="parallax-fix.js"></script>
-</body>
-</html>
+        <tr style="height: 70px;">
+            <td style="border: 1px solid rgb(29, 18, 178); padding: 5px; vertical-align: middle; line-height: 1.2;">
+                Standard Tickets<br>
+                <span style="font-size: 0.9em;">(UCL Surgical Society members)</span>
+            </td>
+            <td rowspan="2" style="border: 1px solid rgb(29, 18, 178); padding: 5px; vertical-align: middle;">
+                16<sup>th</sup> February – 1<sup>st</sup> March
+            </td>
+            <td style="border: 1px solid rgb(29, 18, 178); padding: 5px; vertical-align: middle;">£35</td>
+        </tr>
+
+        <tr style="height: 70px;">
+            <td style="border: 1px solid rgb(29, 18, 178); padding: 5px; vertical-align: middle; line-height: 1.2;">
+                Standard Tickets<br>
+                <span style="font-size: 0.9em;">(Non-members)</span>
+            </td>
+            <td style="border: 1px solid rgb(29, 18, 178); padding: 5px; vertical-align: middle;">£38</td>
+        </tr>
+
+        <tr>
+            <td style="border: 1px solid rgb(29, 18, 178); padding: 10px; vertical-align: middle;">Online Tickets</td>
+            <td style="border: 1px solid rgb(29, 18, 178); padding: 10px; vertical-align: middle;">9<sup>th</sup> February – 6<sup>th</sup> March</td>
+            <td style="border: 1px solid rgb(29, 18, 178); padding: 10px; vertical-align: middle;">£10</td>
+        </tr>
+    </table>
+</div>
+                        <br />
+                        <p class="remove_when_tickets_available">A link will be provided here on this website when ticket sales begin, and this will be advertised across our social media platforms and emails.</p>
+                    </div>
+                </div>
+                <div class="image_container">
+                    <img style="--offset: -90vh" src="img/470f54_041b3a27db314e168f9a7be535d29670~mv2.avif" />
+                </div>
+            </div>
+            <div class="full_width_styled_container">
+                <a href="https://www.instagram.com/inugsc.ucl/"><img src="img/Instagram_Glyph_Black.png" alt="Instagram" /></a>
+                <a href="https://www.linkedin.com/company/ucl-surg-soc/"><img src="img/InBug-Black.png" alt="LinkedIn" /></a>
+            </div>
+            <div class="full_width_container no_background">
+                <iframe id="google_maps_embed" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.449820790011!2d-0.12264092290820197!3d51.52330897181687!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b37aed7d285%3A0x3e42383cf5045bf1!2sUCL%20Great%20Ormond%20Street%20Institute%20of%20Child%20Health!5e0!3m2!1sen!2suk!4v1766612817476!5m2!1sen!2suk" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+            <div class="full_width_styled_container" id="copyright_footer">
+                <small>©2026 UCL Surgical Society. Website created by <a class="unstyled underlined" href="https://www.linkedin.com/in/dylan-heydon-matterface-97036220a/">Dylan Heydon-Matterface</a>.</small>
+            </div>
+        </main>
+        <script src="index.js"></script>
+        <script src="generate_sponsors.js"></script>
+        <script src="generate_speakers_and_workshops.js"></script>
+        <script src="check_for_tickets.js"></script>
+        <script src="handle_pop_out_menus.js"></script>
+        <script src="https://flackr.github.io/scroll-timeline/dist/scroll-timeline.js"></script>
+    </body>
 </html>
