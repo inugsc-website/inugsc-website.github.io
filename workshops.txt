@@ -50,9 +50,7 @@ curious about minimally invasive surgery.
 -
 /img/Cardiac_Pacing_and_Ablation.png
 Cardiac Pacing and Ablation
-This hands-on workshop provides delegates with an introduction to the principles of cardiac electrophysiology.
-Using the Epicardio simulator, delegates will deepen their understanding of cardiac anatomy, the conduction system, ECG in normal and arrhythmic states.
-Through structured simulation tasks,  this session aims to develop skills in temporary pacing, implanted pacing and ablation techniques.
+This hands-on workshop provides delegates with an introduction to the principles of cardiac electrophysiology. Using the Epicardio simulator, delegates will deepen their understanding of cardiac anatomy, the conduction system, ECG in normal and arrhythmic states. Through structured simulation tasks,  this session aims to develop skills in temporary pacing, implanted pacing and ablation techniques.
 -
 /img/C-Section.png
 Caesarean Section
