@@ -48,13 +48,11 @@ Use laparoscopic box trainers to practise camera control, handling instruments,
 cutting, and clipping while removing an appendix model. Great for anyone
 curious about minimally invasive surgery.
 -
-/img/ENT_Ultrasound.png
-ENT Ultrasound
-Build confidence with point-of-care ENT ultrasound in this interactive session.
-After focused teaching, you’ll get hands-on scanning of the neck, learning to
-identify key structures in real time — including the common carotid artery,
-internal jugular vein, and thyroid — turning anatomy into something you can
-see, track, and trust!
+/img/Cardiac_Pacing_and_Ablation.png
+Cardiac Pacing and Ablation
+This hands-on workshop provides delegates with an introduction to the principles of cardiac electrophysiology.
+Using the Epicardio simulator, delegates will deepen their understanding of cardiac anatomy, the conduction system, ECG in normal and arrhythmic states.
+Through structured simulation tasks,  this session aims to develop skills in temporary pacing, implanted pacing and ablation techniques.
 -
 /img/C-Section.png
 Caesarean Section
