@@ -59,9 +59,9 @@ tissue. Practise making incisions, identifying layers, delivering the baby,
 and closing the wound using common suturing techniques in a safe,
 supportive learning environment.
 -
-/img/Anastamosis.png
+/img/Vascular Anastomosis.png
 Anastamosis
-Step into the world of cardiac surgery in this workshop!
+Step into the world of vascular surgery in this workshop!
 This hands-on workshop introduces core principles of vascular anastomosis
 using realistic simulation models. Delegates will learn end-to-end, end-to-
 side, and side-to-side techniques, refining suturing precision, needle control,
