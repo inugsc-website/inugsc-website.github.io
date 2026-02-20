@@ -32,7 +32,9 @@ Learn to seat the valve with precision, secure it properly, and complete a full 
 -
 /img/Suzuki_Frame.png
 Suzuki Frame
-This interactive workshop introduces students to the Suzuki frame, a dynamic external fixator used to treat complex finger fractures. Using surgical drills and bone simulators, participants will practice safe K-wire insertion and construct their own functional traction devices with pins and rubber bands. It's an excellent opportunity to build foundational orthopaedic skills and understand fracture biomechanics in a safe, hands-on environment.
+This interactive workshop introduces students to the Suzuki frame, a dynamic external fixator used to treat complex finger fractures. Using surgical drills and bone simulators, participants will practice safe K-wire insertion and construct their own functional traction devices with pins and rubber bands.
+We will be using Claribone's specialized equipment to provide the most realistic tactile feedback during these drilling and framing exercises.
+It's an excellent opportunity to build foundational orthopaedic skills and understand fracture biomechanics in a safe, hands-on environment.
 -
 /img/Sebaceous_Cyst_Excision.png
 Sebaceous Cyst Excision
@@ -47,7 +49,7 @@ Great for anyone curious about minimally invasive surgery.
 -
 /img/Cardiac_Pacing_and_Ablation.png
 Cardiac Pacing and Ablation
-This hands-on workshop provides delegates with an introduction to the principles of cardiac electrophysiology. Using the Epicardio simulator, delegates will deepen their understanding of cardiac anatomy, the conduction system, ECG in normal and arrhythmic states. Through structured simulation tasks,  this session aims to develop skills in temporary pacing, implanted pacing and ablation techniques.
+This hands-on workshop, run by Epicardio, provides delegates with an introduction to the principles of cardiac electrophysiology. Using the Epicardio simulator, delegates will deepen their understanding of cardiac anatomy, the conduction system, ECG in normal and arrhythmic states. Through structured simulation tasks,  this session aims to develop skills in temporary pacing, implanted pacing and ablation techniques.
 -
 /img/C-Section.png
 Caesarean Section
