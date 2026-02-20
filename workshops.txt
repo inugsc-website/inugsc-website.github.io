@@ -30,16 +30,9 @@ Aortic Valve Replacement
 Take on the challenge of aortic valve replacement in this immersive hands-on workshop. You’ll work with a “faulty” aorta, excise the diseased valve, and prepare a prosthetic replacement.
 Learn to seat the valve with precision, secure it properly, and complete a full valve replacement from start to finish.
 -
-/img/Suzuki_Frame.png
-Suzuki Frame
-This interactive workshop introduces students to the Suzuki frame, a dynamic external fixator used to treat complex finger fractures. Using surgical drills and bone simulators, participants will practice safe K-wire insertion and construct their own functional traction devices with pins and rubber bands.
-We will be using Claribone's specialized equipment to provide the most realistic tactile feedback during these drilling and framing exercises.
-It's an excellent opportunity to build foundational orthopaedic skills and understand fracture biomechanics in a safe, hands-on environment.
--
-/img/Sebaceous_Cyst_Excision.png
-Sebaceous Cyst Excision
-Master the art of minor surgery in our Sebaceous Cyst Excision workshop!
-Students will work on simulated models — removing embedded cysts from pig skin — while honing their precision in incision planning, careful dissection, and suturing techniques.
+/img/Kidney_Transplant.png
+Kidney Transplant
+This practical workshop guides delegates through the key stages of kidney transplantation before hands-on practice using a porcine model. Participants will attach the kidney to new vessels, developing vascular anastomosis techniques, refining suturing precision, and strengthening delicate hand–eye coordination in a focused, realistic surgical simulation environment.
 -
 /img/Laparoscopic_Appendicectomy.png
 Laparoscopic Appendicectomy
@@ -47,14 +40,35 @@ Experience keyhole surgery by performing a simulated appendicectomy!
 Use laparoscopic box trainers to practise camera control, handling instruments, cutting, and clipping while removing an appendix model.
 Great for anyone curious about minimally invasive surgery.
 -
-/img/Cardiac_Pacing_and_Ablation.png
-Cardiac Pacing and Ablation
-This hands-on workshop, run by Epicardio, provides delegates with an introduction to the principles of cardiac electrophysiology. Using the Epicardio simulator, delegates will deepen their understanding of cardiac anatomy, the conduction system, ECG in normal and arrhythmic states. Through structured simulation tasks,  this session aims to develop skills in temporary pacing, implanted pacing and ablation techniques.
+/img/Inguinal_Hernia_Repair.png
+Inguinal Hernia Repair
+This hands-on workshop uses a student-developed inguinal hernia model to simulate the key surgical steps of hernia repair.
+Delegates will explore anatomy, practice tissue handling, and follow procedural flow while developing suturing precision and operative confidence in a structured simulation.
+-
+/img/Keratoplasty.png
+Keratoplasty
+Ever wanted to feel what eye surgery is like? This corneal transplant workshop teaches corneal transplantation through realistic simulation using porcine eyes.
+Delegates will perform key operative steps, developing microsurgical handling, suturing precision, and tissue manipulation skills while gaining confidence in delicate ophthalmic techniques.
 -
 /img/C-Section.png
 Caesarean Section
 Simulate a Caesarean section using layered models that mimic real tissue.
 Practise making incisions, identifying layers, delivering the baby, and closing the wound using common suturing techniques in a safe, supportive learning environment.
+-
+/img/Suzuki_Frame.png
+Suzuki Frame
+This interactive workshop introduces students to the Suzuki frame, a dynamic external fixator used to treat complex finger fractures. Using surgical drills and bone simulators, participants will practice safe K-wire insertion and construct their own functional traction devices with pins and rubber bands.
+We will be using Claribone's specialized equipment to provide the most realistic tactile feedback during these drilling and framing exercises.
+It's an excellent opportunity to build foundational orthopaedic skills and understand fracture biomechanics in a safe, hands-on environment.
+-
+/img/Cardiac_Pacing_and_Ablation.png
+Cardiac Pacing and Ablation
+This hands-on workshop, run by Epicardio, provides delegates with an introduction to the principles of cardiac electrophysiology. Using the Epicardio simulator, delegates will deepen their understanding of cardiac anatomy, the conduction system, ECG in normal and arrhythmic states. Through structured simulation tasks,  this session aims to develop skills in temporary pacing, implanted pacing and ablation techniques.
+-
+/img/Digital_Toe_Amputation.png
+Digital Toe Amputation
+In this hands-on workshop, participants will perform a simulated digital toe amputation using a pig model.
+You’ll gain experience in soft-tissue dissection, bone transection, and practicing fundamental wound closure techniques.
 -
 /img/Anastomosis.png
 Vascular Anastomosis
@@ -64,32 +78,18 @@ Step into the world of vascular surgery in this workshop! This hands-on workshop
 K-Wiring
 Learn the fundamentals of upper limb fracture fixation using K-wires. Practise fracture reduction, wire placement, and safe technique on realistic bone models, with guidance from clinicians. Perfect for beginners interested in orthopaedics and surgical skills.
 -
-/img/Mandibular_Plating.png
-Mandibular Plating
-This interactive workshop immerses delegates in mandibular trauma management through a simulated fracture scenario. Participants will plan fracture realignment and perform mandibular plating on a model, applying principles used in real surgery. The session builds spatial awareness, fixation strategy, and precise instrument handling within a structured, hands-on maxillofacial surgical simulation environment.
--
-/img/Keratoplasty.png
-Keratoplasty
-Ever wanted to feel what eye surgery is like? This corneal transplant workshop teaches corneal transplantation through realistic simulation using porcine eyes.
-Delegates will perform key operative steps, developing microsurgical handling, suturing precision, and tissue manipulation skills while gaining confidence in delicate ophthalmic techniques.
--
 /img/Total_Knee_Replacement.png
 Total Knee Replacement
 In this hands-on workshop, delegates will use sawbone models and authentic orthopaedic instruments to simulate a complete knee replacement procedure. Participants will follow key operative steps while developing practical skills in alignment, instrument handling, and procedural flow, gaining confidence and technical insight within a realistic, structured surgical simulation setting.
 -
-/img/Inguinal_Hernia_Repair.png
-Inguinal Hernia Repair
-This hands-on workshop uses a student-developed inguinal hernia model to simulate the key surgical steps of hernia repair.
-Delegates will explore anatomy, practice tissue handling, and follow procedural flow while developing suturing precision and operative confidence in a structured simulation.
+/img/Mandibular_Plating.png
+Mandibular Plating
+This interactive workshop immerses delegates in mandibular trauma management through a simulated fracture scenario. Participants will plan fracture realignment and perform mandibular plating on a model, applying principles used in real surgery. The session builds spatial awareness, fixation strategy, and precise instrument handling within a structured, hands-on maxillofacial surgical simulation environment.
 -
-/img/Kidney_Transplant.png
-Kidney Transplant
-This practical workshop guides delegates through the key stages of kidney transplantation before hands-on practice using a porcine model. Participants will attach the kidney to new vessels, developing vascular anastomosis techniques, refining suturing precision, and strengthening delicate hand–eye coordination in a focused, realistic surgical simulation environment.
--
-/img/Digital_Toe_Amputation.png
-Digital Toe Amputation
-In this hands-on workshop, participants will perform a simulated digital toe amputation using a pig model.
-You’ll gain experience in soft-tissue dissection, bone transection, and practicing fundamental wound closure techniques.
+/img/Sebaceous_Cyst_Excision.png
+Sebaceous Cyst Excision
+Master the art of minor surgery in our Sebaceous Cyst Excision workshop!
+Students will work on simulated models — removing embedded cysts from pig skin — while honing their precision in incision planning, careful dissection, and suturing techniques.
 -
 /img/Laminectomy.png
 Laminectomy
