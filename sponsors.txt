@@ -36,3 +36,6 @@ Royal Medical Benevolent Fund
 
 /img/logo/Premier_Science.png
 Premier Science
+
+/img/logo/Stryker.png
+Stryker
