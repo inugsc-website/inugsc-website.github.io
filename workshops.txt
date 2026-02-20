@@ -27,20 +27,25 @@ An immersive, technique-focused session designed to bring thoracic surgery princ
 -
 /img/Aortic_Valve_Replacement.png
 Aortic Valve Replacement
-Take on the challenge of aortic valve replacement in this immersive hands-on workshop. You’ll work with a “faulty” aorta, excise the diseased valve, and prepare a prosthetic replacement.
+Take on the challenge of aortic valve replacement in this immersive hands-on workshop.
+You’ll work with a “faulty” aorta, excise the diseased valve, and prepare a prosthetic replacement.
 Learn to seat the valve with precision, secure it properly, and complete a full valve replacement from start to finish.
 -
 /img/Kidney_Transplant.png
 Kidney Transplant
-This practical workshop guides delegates through the key stages of kidney transplantation before hands-on practice using a porcine model. Participants will attach the kidney to new vessels, developing vascular anastomosis techniques, refining suturing precision, and strengthening delicate hand–eye coordination in a focused, realistic surgical simulation environment.
+This practical workshop guides delegates through the key stages of kidney transplantation before hands-on practice using a porcine model.
+Participants will attach the kidney to new vessels, developing vascular anastomosis techniques, refining suturing precision, and strengthening delicate hand–eye coordination in a focused, realistic surgical simulation environment.
 -
 /img/K_Wiring.png
 K-Wiring
-Learn the fundamentals of upper limb fracture fixation using K-wires. Practise fracture reduction, wire placement, and safe technique on realistic bone models, with guidance from clinicians. Perfect for beginners interested in orthopaedics and surgical skills.
+Learn the fundamentals of upper limb fracture fixation using K-wires.
+Practise fracture reduction, wire placement, and safe technique on realistic bone models, with guidance from clinicians.
+Perfect for beginners interested in orthopaedics and surgical skills.
 -
 /img/Total_Knee_Replacement.png
 Total Knee Replacement
-In this hands-on workshop, delegates will use sawbone models and authentic orthopaedic instruments to simulate a complete knee replacement procedure. Participants will follow key operative steps while developing practical skills in alignment, instrument handling, and procedural flow, gaining confidence and technical insight within a realistic, structured surgical simulation setting.
+In this hands-on workshop, delegates will use sawbone models and authentic orthopaedic instruments to simulate a complete knee replacement procedure.
+Participants will follow key operative steps while developing practical skills in alignment, instrument handling, and procedural flow, gaining confidence and technical insight within a realistic, structured surgical simulation setting.
 -
 /img/Inguinal_Hernia_Repair.png
 Inguinal Hernia Repair
@@ -49,7 +54,9 @@ Delegates will explore anatomy, practice tissue handling, and follow procedural 
 -
 /img/Mandibular_Plating.png
 Mandibular Plating
-This interactive workshop immerses delegates in mandibular trauma management through a simulated fracture scenario. Participants will plan fracture realignment and perform mandibular plating on a model, applying principles used in real surgery. The session builds spatial awareness, fixation strategy, and precise instrument handling within a structured, hands-on maxillofacial surgical simulation environment.
+This interactive workshop immerses delegates in mandibular trauma management through a simulated fracture scenario.
+Participants will plan fracture realignment and perform mandibular plating on a model, applying principles used in real surgery.
+The session builds spatial awareness, fixation strategy, and precise instrument handling within a structured, hands-on maxillofacial surgical simulation environment.
 -
 /img/Laminectomy.png
 Laminectomy
@@ -58,7 +65,8 @@ Participants will simulate spinal decompression, refining bone removal technique
 -
 /img/Keratoplasty.png
 Keratoplasty
-Ever wanted to feel what eye surgery is like? This corneal transplant workshop teaches corneal transplantation through realistic simulation using porcine eyes.
+Ever wanted to feel what eye surgery is like?
+This corneal transplant workshop teaches corneal transplantation through realistic simulation using porcine eyes.
 Delegates will perform key operative steps, developing microsurgical handling, suturing precision, and tissue manipulation skills while gaining confidence in delicate ophthalmic techniques.
 -
 /img/Laparoscopic_Appendicectomy.png
@@ -74,13 +82,16 @@ Practise making incisions, identifying layers, delivering the baby, and closing 
 -
 /img/Suzuki_Frame.png
 Suzuki Frame
-This interactive workshop introduces students to the Suzuki frame, a dynamic external fixator used to treat complex finger fractures. Using surgical drills and bone simulators, participants will practice safe K-wire insertion and construct their own functional traction devices with pins and rubber bands.
+This interactive workshop introduces students to the Suzuki frame, a dynamic external fixator used to treat complex finger fractures.
+Using surgical drills and bone simulators, participants will practice safe K-wire insertion and construct their own functional traction devices with pins and rubber bands.
 We will be using Claribone's specialized equipment to provide the most realistic tactile feedback during these drilling and framing exercises.
 It's an excellent opportunity to build foundational orthopaedic skills and understand fracture biomechanics in a safe, hands-on environment.
 -
 /img/Epicardio.png
 Cardiac Pacing and Ablation
-This hands-on workshop, run by Epicardio, provides delegates with an introduction to the principles of cardiac electrophysiology. Using the Epicardio simulator, delegates will deepen their understanding of cardiac anatomy, the conduction system, ECG in normal and arrhythmic states. Through structured simulation tasks,  this session aims to develop skills in temporary pacing, implanted pacing and ablation techniques.
+This hands-on workshop, run by Epicardio, provides delegates with an introduction to the principles of cardiac electrophysiology.
+Using the Epicardio simulator, delegates will deepen their understanding of cardiac anatomy, the conduction system, ECG in normal and arrhythmic states.
+Through structured simulation tasks, this session aims to develop skills in temporary pacing, implanted pacing and ablation techniques.
 -
 /img/Digital_Toe_Amputation.png
 Digital Toe Amputation
@@ -89,7 +100,8 @@ You’ll gain experience in soft-tissue dissection, bone transection, and practi
 -
 /img/Anastomosis.png
 Vascular Anastomosis
-Step into the world of vascular surgery in this workshop! This hands-on workshop introduces core principles of vascular anastomosis using realistic simulation models. Delegates will learn end-to-end, end-to- side, and side-to-side techniques, refining suturing precision, needle control, and tissue handling in a surgically focused training environment.
+Step into the world of vascular surgery in this workshop! This hands-on workshop introduces core principles of vascular anastomosis using realistic simulation models.
+Delegates will learn end-to-end, end-to- side, and side-to-side techniques, refining suturing precision, needle control, and tissue handling in a surgically focused training environment.
 -
 /img/Sebaceous_Cyst_Excision.png
 Sebaceous Cyst Excision
@@ -104,8 +116,13 @@ From there, you’ll progress to advanced techniques, including simple continuou
 -
 /img/Battle_of_the_Specialties.png
 Battle of the Specialties (BOTS)
-Still torn between specialties? Battle of the Specialties throws you into the heart of the action. You’ll rotate through hands-on stations led by vascular, general and transplant surgeons, ENT, and neurosurgery—each highlighting their core techniques and day-to-day surgical skills. It’s fast- paced, immersive, and designed to help you compare specialties side by side while discovering what really excites you in surgery.
+Still torn between specialties?
+Battle of the Specialties throws you into the heart of the action.
+You’ll rotate through hands-on stations led by vascular, general and transplant surgeons, ENT, and neurosurgery—each highlighting their core techniques and day-to-day surgical skills.
+It’s fast- paced, immersive, and designed to help you compare specialties side by side while discovering what really excites you in surgery.
 -
 /img/Surgical_Hackathon.png
 Surgical Hackathon
-This surgical hackathon session challenges teams to design a theoretical workshop that simulates a surgical procedure. Participants must consider cost, sustainability, and reproducibility while developing their concept. The session promotes creativity, problem-solving, and teamwork, highlighting how thoughtful simulation design can enhance surgical education and accessibility.
+This surgical hackathon session challenges teams to design a theoretical workshop that simulates a surgical procedure.
+Participants must consider cost, sustainability, and reproducibility while developing their concept.
+The session promotes creativity, problem-solving, and teamwork, highlighting how thoughtful simulation design can enhance surgical education and accessibility.
