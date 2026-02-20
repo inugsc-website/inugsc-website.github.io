@@ -34,21 +34,38 @@ Learn to seat the valve with precision, secure it properly, and complete a full 
 Kidney Transplant
 This practical workshop guides delegates through the key stages of kidney transplantation before hands-on practice using a porcine model. Participants will attach the kidney to new vessels, developing vascular anastomosis techniques, refining suturing precision, and strengthening delicate hand–eye coordination in a focused, realistic surgical simulation environment.
 -
-/img/Laparoscopic_Appendicectomy.png
-Laparoscopic Appendicectomy
-Experience keyhole surgery by performing a simulated appendicectomy!
-Use laparoscopic box trainers to practise camera control, handling instruments, cutting, and clipping while removing an appendix model.
-Great for anyone curious about minimally invasive surgery.
+/img/K_Wiring.png
+K-Wiring
+Learn the fundamentals of upper limb fracture fixation using K-wires. Practise fracture reduction, wire placement, and safe technique on realistic bone models, with guidance from clinicians. Perfect for beginners interested in orthopaedics and surgical skills.
+-
+/img/Total_Knee_Replacement.png
+Total Knee Replacement
+In this hands-on workshop, delegates will use sawbone models and authentic orthopaedic instruments to simulate a complete knee replacement procedure. Participants will follow key operative steps while developing practical skills in alignment, instrument handling, and procedural flow, gaining confidence and technical insight within a realistic, structured surgical simulation setting.
 -
 /img/Inguinal_Hernia_Repair.png
 Inguinal Hernia Repair
 This hands-on workshop uses a student-developed inguinal hernia model to simulate the key surgical steps of hernia repair.
 Delegates will explore anatomy, practice tissue handling, and follow procedural flow while developing suturing precision and operative confidence in a structured simulation.
 -
+/img/Mandibular_Plating.png
+Mandibular Plating
+This interactive workshop immerses delegates in mandibular trauma management through a simulated fracture scenario. Participants will plan fracture realignment and perform mandibular plating on a model, applying principles used in real surgery. The session builds spatial awareness, fixation strategy, and precise instrument handling within a structured, hands-on maxillofacial surgical simulation environment.
+-
+/img/Laminectomy.png
+Laminectomy
+This practical workshop guides delegates through the essential steps of lumbar laminectomy using anatomical models.
+Participants will simulate spinal decompression, refining bone removal techniques, instrument handling while building confidence in a structured, realistic surgical simulation setting.
+-
 /img/Keratoplasty.png
 Keratoplasty
 Ever wanted to feel what eye surgery is like? This corneal transplant workshop teaches corneal transplantation through realistic simulation using porcine eyes.
 Delegates will perform key operative steps, developing microsurgical handling, suturing precision, and tissue manipulation skills while gaining confidence in delicate ophthalmic techniques.
+-
+/img/Laparoscopic_Appendicectomy.png
+Laparoscopic Appendicectomy
+Experience keyhole surgery by performing a simulated appendicectomy!
+Use laparoscopic box trainers to practise camera control, handling instruments, cutting, and clipping while removing an appendix model.
+Great for anyone curious about minimally invasive surgery.
 -
 /img/C-Section.png
 Caesarean Section
@@ -74,27 +91,10 @@ You’ll gain experience in soft-tissue dissection, bone transection, and practi
 Vascular Anastomosis
 Step into the world of vascular surgery in this workshop! This hands-on workshop introduces core principles of vascular anastomosis using realistic simulation models. Delegates will learn end-to-end, end-to- side, and side-to-side techniques, refining suturing precision, needle control, and tissue handling in a surgically focused training environment.
 -
-/img/K_Wiring.png
-K-Wiring
-Learn the fundamentals of upper limb fracture fixation using K-wires. Practise fracture reduction, wire placement, and safe technique on realistic bone models, with guidance from clinicians. Perfect for beginners interested in orthopaedics and surgical skills.
--
-/img/Total_Knee_Replacement.png
-Total Knee Replacement
-In this hands-on workshop, delegates will use sawbone models and authentic orthopaedic instruments to simulate a complete knee replacement procedure. Participants will follow key operative steps while developing practical skills in alignment, instrument handling, and procedural flow, gaining confidence and technical insight within a realistic, structured surgical simulation setting.
--
-/img/Mandibular_Plating.png
-Mandibular Plating
-This interactive workshop immerses delegates in mandibular trauma management through a simulated fracture scenario. Participants will plan fracture realignment and perform mandibular plating on a model, applying principles used in real surgery. The session builds spatial awareness, fixation strategy, and precise instrument handling within a structured, hands-on maxillofacial surgical simulation environment.
--
 /img/Sebaceous_Cyst_Excision.png
 Sebaceous Cyst Excision
 Master the art of minor surgery in our Sebaceous Cyst Excision workshop!
 Students will work on simulated models — removing embedded cysts from pig skin — while honing their precision in incision planning, careful dissection, and suturing techniques.
--
-/img/Laminectomy.png
-Laminectomy
-This practical workshop guides delegates through the essential steps of lumbar laminectomy using anatomical models.
-Participants will simulate spinal decompression, refining bone removal techniques, instrument handling while building confidence in a structured, realistic surgical simulation setting.
 -
 /img/Basic_and_Advanced_Suturing.png
 Basic and Advanced Suturing
