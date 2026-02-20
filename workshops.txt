@@ -30,6 +30,10 @@ Aortic Valve Replacement
 Take on the challenge of aortic valve replacement in this immersive hands-on workshop. You’ll work with a “faulty” aorta, excise the diseased valve, and prepare a prosthetic replacement.
 Learn to seat the valve with precision, secure it properly, and complete a full valve replacement from start to finish.
 -
+/img/Suzuki_Frame.png
+Suzuki Frame
+This interactive workshop introduces students to the Suzuki frame, a dynamic external fixator used to treat complex finger fractures. Using surgical drills and bone simulators, participants will practice safe K-wire insertion and construct their own functional traction devices with pins and rubber bands. It's an excellent opportunity to build foundational orthopaedic skills and understand fracture biomechanics in a safe, hands-on environment.
+-
 /img/Sebaceous_Cyst_Excision.png
 Sebaceous Cyst Excision
 Master the art of minor surgery in our Sebaceous Cyst Excision workshop!
