@@ -28,6 +28,9 @@ MDU
 /img/logo/MedShr.png
 MedShr
 
+/img/logo/Stryker.png
+Stryker
+
 /img/logo/Quesmed.png
 Quesmed
 
@@ -37,8 +40,5 @@ Royal Medical Benevolent Fund
 /img/logo/Premier_Science.png
 Premier Science
 
-/img/logo/Empty.png
-Empty
-
-/img/logo/Stryker.png
-Stryker
+/img/logo/Epicardio.png
+Epicardio
