@@ -224,7 +224,7 @@ main div.two_adjacent_text_containers div.text_container.wide {
 }
 
 main div.full_width_container {
-    background: #c0c0d0;
+    background: #e1e8f0;
     display: flex;
     flex-direction: row;
     padding: 1rem;
