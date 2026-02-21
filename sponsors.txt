@@ -42,3 +42,6 @@ Premier Science
 
 /img/logo/Epicardio.png
 Epicardio
+
+/img/logo/MedEntry.png
+MedEntry
