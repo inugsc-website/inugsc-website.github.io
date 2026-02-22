@@ -91,7 +91,7 @@ It's an excellent opportunity to build foundational orthopaedic skills and under
 Cardiac Pacing and Ablation Simulation
 This hands-on workshop, run by Epicardio, provides delegates with an introduction to the principles of cardiac electrophysiology.
 Using the Epicardio simulator, delegates will deepen their understanding of cardiac anatomy, the conduction system, ECG in normal and arrhythmic states.
-Through structured simulation tasks, this session aims to develop skills in temporary pacing, implanted pacing and ablation techniques.
+Through structured simulation tasks, this session aims to develop skills in temporary pacing, implanted pacing and ablation techniques. Delegates will also receive a 1-month free subscription to Epicardio Simulation™, giving them the opportunity to continue and develop the skills learned in this workshop.
 -
 /img/Digital_Toe_Amputation.png
 Digital Toe Amputation
