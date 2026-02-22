@@ -88,7 +88,7 @@ We will be using Claribone's specialized equipment to provide the most realistic
 It's an excellent opportunity to build foundational orthopaedic skills and understand fracture biomechanics in a safe, hands-on environment.
 -
 /img/Epicardio.png
-Cardiac Pacing and Ablation
+Cardiac Pacing and Ablation Simulation
 This hands-on workshop, run by Epicardio, provides delegates with an introduction to the principles of cardiac electrophysiology.
 Using the Epicardio simulator, delegates will deepen their understanding of cardiac anatomy, the conduction system, ECG in normal and arrhythmic states.
 Through structured simulation tasks, this session aims to develop skills in temporary pacing, implanted pacing and ablation techniques.
