@@ -117,12 +117,8 @@ From there, you’ll progress to advanced techniques, including simple continuou
 /img/Battle_of_the_Specialties.png
 Battle of the Specialties (BOTS)
 Still torn between specialties?
-Battle of the Specialties throws you into the heart of the action.
-You’ll rotate through hands-on stations led by vascular, general and transplant surgeons, ENT, and neurosurgery—each highlighting their core techniques and day-to-day surgical skills.
-It’s fast- paced, immersive, and designed to help you compare specialties side by side while discovering what really excites you in surgery.
+Battle of the Specialties throws you into the heart of the action. You’ll rotate through hands-on stations led by vascular, general and transplant surgeons, ENT, and neurosurgery—each highlighting their core techniques and day-to-day surgical skills. It’s fast- paced, immersive, and designed to help you compare specialties side by side while discovering what really excites you in surgery.
 -
 /img/Surgical_Hackathon.png
 Surgical Hackathon
-This surgical hackathon session challenges teams to design a theoretical workshop that simulates a surgical procedure.
-Participants must consider cost, sustainability, and reproducibility while developing their concept.
-The session promotes creativity, problem-solving, and teamwork, highlighting how thoughtful simulation design can enhance surgical education and accessibility.
+This surgical hackathon session challenges teams to design a theoretical workshop that simulates a surgical procedure. Participants must consider cost, sustainability, and reproducibility while developing their concept. The session promotes creativity, problem-solving, and teamwork, highlighting how thoughtful simulation design can enhance surgical education and accessibility.
