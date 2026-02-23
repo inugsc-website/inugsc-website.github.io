@@ -45,3 +45,9 @@ Epicardio
 
 /img/logo/MedEntry.png
 MedEntry
+
+/img/logo/Empty.png
+Empty
+
+/img/logo/HS_Productions.png
+HS Productions
