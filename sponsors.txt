@@ -46,6 +46,15 @@ Epicardio
 /img/logo/MedEntry.png
 MedEntry
 
+/img/logo/BMA.png
+BMA
+
+/img/logo/RCoA.png
+Royal College of Anaesthetists
+
+/img/logo/Doctors.net.uk.png
+Doctors/net/uk
+
 /img/logo/Empty.png
 Empty
 
