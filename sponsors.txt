@@ -47,16 +47,16 @@ Epicardio
 MedEntry
 
 /img/logo/BMA.png
-BMA
+[Smaller] BMA
 
 /img/logo/RCoA.png
-Royal College of Anaesthetists
+[Smaller] Royal College of Anaesthetists
 
 /img/logo/Doctors.net.uk.png
 Doctors/net/uk
 
 /img/logo/Revise_MLA.png
-Revise MLA
+[Smaller] Revise MLA
 
 /img/logo/HS_Productions.png
 HS Productions
